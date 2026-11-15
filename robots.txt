@@ -1,0 +1,8 @@
+# Public website: allow search engines and AI search crawlers.
+User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://hranaodbogdane.rs/sitemap.xml
